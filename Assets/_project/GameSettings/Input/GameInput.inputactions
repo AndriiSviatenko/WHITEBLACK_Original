@@ -1,0 +1,34 @@
+{
+    "name": "GameInput",
+    "maps": [
+        {
+            "name": "GamePlay",
+            "id": "cffc4db4-289a-4016-bddb-ed5f999f2c8f",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Button",
+                    "id": "44676f3a-54b3-45da-9d3a-b138f3c62c8d",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "3fa2a946-7cb7-49ee-9702-7040fe9cef92",
+                    "path": "<Mouse>/press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
